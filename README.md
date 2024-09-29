@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+# Ex-6: Restaurant Project
 ## Date: 14-09-2024
 
 ## AIM:
