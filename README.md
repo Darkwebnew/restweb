@@ -1,5 +1,5 @@
 # Ex-6: Restaurant Project
-## Date: 14-09-2024
+## DATE: 14-09-2024
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
